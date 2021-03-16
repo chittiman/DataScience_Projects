@@ -2,7 +2,7 @@
 
 <img src=https://miro.medium.com/max/1476/0*z9jqZsQ7JSTZGSZz.jpg height ="50%"  width = "50%">
 
-<b>Background</b>  - This notebook is a solution to [<b>Disaster Tweets Classification</b>](https://www.kaggle.com/c/nlp-getting-started) hackathon conducted by MachineHack.
+<b>Background</b>  - This notebook is a solution to [<b>Disaster Tweets Classification</b>](https://www.kaggle.com/c/nlp-getting-started) hackathon conducted by Kaggle.
 
 <b>Problem</b> - Given tweets, we need to classify them whether they are disaster related or not
 
