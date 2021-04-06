@@ -21,7 +21,7 @@ I used Google Colab to work with GPUs. The major problem which I have encountere
 3)	Deleting unused variables at each step
 4)	Switching of gradient calculations. 
 
-Failed ideas – Treating each encoding as an example, with script label as its label and fitting a neural network over it. Failed because of too much noise
+Failed ideas – Treating each sequence encoding as an example, with script label as its label and fitting a neural network over it. Failed because of too much noise
 
 Other ideas worth exploring which I could not try :
 1)	Using more powerful models instead of just Logistic Regression
